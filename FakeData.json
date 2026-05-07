@@ -1,228 +1,226 @@
 [
   {
-    "id": "6260e0b16775b28aadab607e",
+    "id": "6260e0b16775b28aadab6071",
     "index": 0,
-    "balance": "$200",
-    "picture": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "name": "Nilgiri Hill",
-    "about": "Located at the south-eastern part of Chittagong hill tracts between the Bangladesh and India border, Maithaijama Haphong is the sixth-highest peak of Bangladesh. However it is not officially recognized according to the Bangladesh government."
-  },
-  {
-    "id": "6260e0b19b58656f5322945b",
-    "index": 1,
-    "balance": "$180",
-    "picture": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "name": "Saka Haphong Hill",
-    "about": "Rama Manikya Haphong/Aiyang Tlang is another mountain found in Bangladesh nearing the Bangladesh–Myanmar border Van Rausang Bawm from the local 'Bawm ethnic community', Dalian headman Para of 'Remakri' Mouja and there is many things to explore here  "
-  },
-  {
-    "id": "6260e0b158dec32f472bf43d",
-    "index": 2,
-    "balance": "$385",
-    "picture": "https://images.unsplash.com/photo-1469362102473-8622cfb973cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1219&q=80",
-    "name": "Zow Tlang Thanci",
-    "about": "Zow Tlang or Reang Haphong is a peak in the Mowdok range located at 21°40′23″N 92°36′16″E on the border with Myanmar. Its peak is at an altitude of 1,022 metres (3,353 ft). According to Bangla Trek, it is the second-highest peak in the Bangladesh.Its Awsome Place to Visit Here."
-  },
-  {
-    "id": "6260e0b19aacd869f33e9b5e",
-    "index": 3,
-    "balance": "$252",
-    "picture": "https://images.unsplash.com/photo-1594717527389-a590b56e8d0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "name": "Jogi Haphong Hill",
-    "about": "Thingdawlte Tlang is a significant peak of Bangladesh. This peak is the highest point of 'lawmbok Row' range and possible seventh-highest of the country. In December 2012 a local explorer Fahim Hasan of  summitted the peak of Thingdawlte Tlang."
-  },
-  {
-    "id": "6260e0b1086ad293418144cd",
-    "index": 4,
-    "balance": "$380",
-    "picture": "https://images.unsplash.com/photo-1463288889890-a56b2853c40f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
-    "name": "Keokradong Hill",
-    "about": "Mukhra Thuthai Haphong is a significant border peak of Bangladesh, situated at the southern most part of Belaichori of Rangamati Hill District. In April 2013, Fahim Hasan of BD Explorer summited and measured this peak for the first time.In December 2012, a local explorer Fahim Hasan of BD Explorer summitted the peak of Kreikung."
-  },
-  {
-    "id": "6260e0b1077be655fe596834",
-    "index": 5,
-    "balance": "$450",
-    "picture": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=841&q=80",
-    "name": "Bandarban Hill",
-    "about": "Kreikung Taung is a significant peak of Bangladesh. This peak is the second highest point of 'Lawmbok Row' range and possibly the eleventh-highest in the country. In December 2012, a local explorer Fahim Hasan of BD Explorer summitted  Kreikung."
-  },
-  {
-    "id": "6260e0b15e79f79413e7390f",
-    "index": 6,
-    "balance": "$600",
-    "picture": "https://images.unsplash.com/photo-1542202229-7d93c33f5d07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "name": "Lusai Pahar",
-    "about": "Kapital/Capital is a distinctive, beautiful and very eye-catching peak on the Politai range near Thaikeng para. This flat mountain top was once used as a hideout by a separatist group from Mizoram. They declared this mountaintop as their temporary capital of free."
-  },
-  {
-    "id": "6260e0b176354d9b7648ecc3",
-    "index": 7,
-    "balance": "$800",
-    "picture": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
-    "name": "Afiakum Jhorna",
-    "about": "Taung Prai, a very beautiful dome-shaped mountain at Reng Tlang border range is the most south-eastern border peak of Rangamati district. It is also the last major peak at Reng Tlang range inside our border. View seen from the top is mind-blowing. "
-  },
-  [
-  {
-    "id": "7260e0b16775b28aadab6071",
-    "index": 8,
-    "balance": "$320",
-    "picture": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1170&q=80",
-    "name": "Sajek Valley",
-    "about": "Sajek Valley is one of the most breathtaking tourist destinations in Bangladesh, surrounded by rolling hills, clouds, and indigenous culture. The valley offers mesmerizing sunrise views and peaceful natural beauty."
-  },
-  {
-    "id": "7260e0b16775b28aadab6072",
-    "index": 9,
-    "balance": "$410",
-    "picture": "https://images.unsplash.com/photo-1493246318656-5bfd4cfb29b8?auto=format&fit=crop&w=1170&q=80",
-    "name": "Tanguar Haor",
-    "about": "Tanguar Haor is a unique wetland ecosystem in Sunamganj famous for boat travel, migratory birds, and crystal-clear water during monsoon season. It is one of the most relaxing nature escapes in Bangladesh."
-  },
-  {
-    "id": "7260e0b16775b28aadab6073",
-    "index": 10,
-    "balance": "$290",
-    "picture": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1170&q=80",
-    "name": "Ratargul Swamp Forest",
-    "about": "Ratargul Swamp Forest is the only freshwater swamp forest in Bangladesh. During rainy season, visitors can explore the forest by boat through submerged trees and enjoy the magical atmosphere."
-  },
-  {
-    "id": "7260e0b16775b28aadab6074",
-    "index": 11,
-    "balance": "$530",
-    "picture": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1170&q=80",
-    "name": "Saint Martin Island",
-    "about": "Saint Martin Island is the only coral island in Bangladesh known for turquoise water, coconut trees, and peaceful beaches. It is a perfect destination for relaxation and sea adventure."
-  },
-  {
-    "id": "7260e0b16775b28aadab6075",
-    "index": 12,
     "balance": "$370",
     "picture": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1170&q=80",
     "name": "Cox's Bazar Beach",
-    "about": "Cox's Bazar is the world's longest natural sea beach stretching over 120 kilometers. Visitors enjoy beach sunsets, seafood, marine drive, and exciting coastal adventures."
+    "about": "Cox's Bazar is the world's longest natural sea beach stretching over 120 kilometers along the Bay of Bengal. Visitors enjoy dramatic sunsets, fresh seafood, the famous marine drive, and exciting coastal adventures throughout the year."
   },
   {
-    "id": "7260e0b16775b28aadab6076",
-    "index": 13,
-    "balance": "$245",
-    "picture": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1170&q=80",
-    "name": "Madhabkunda Waterfall",
-    "about": "Madhabkunda Waterfall is one of the largest waterfalls in Bangladesh located in Sylhet division. The surrounding green hills and rocky environment create an adventurous travel experience."
+    "id": "6260e0b16775b28aadab6072",
+    "index": 1,
+    "balance": "$530",
+    "picture": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1170&q=80",
+    "name": "Saint Martin Island",
+    "about": "Saint Martin Island is the only coral island in Bangladesh, known for its turquoise water, coconut palm groves, and peaceful beaches. Snorkeling around the coral reef at low tide reveals a vibrant underwater world perfect for sea lovers."
   },
   {
-    "id": "7260e0b16775b28aadab6077",
-    "index": 14,
-    "balance": "$390",
-    "picture": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1170&q=80",
-    "name": "Nilachal Bandarban",
-    "about": "Nilachal is a famous hilltop tourist spot in Bandarban offering panoramic cloud views and cool weather. Visitors often call it the Darjeeling of Bangladesh."
-  },
-  {
-    "id": "7260e0b16775b28aadab6078",
-    "index": 15,
-    "balance": "$275",
-    "picture": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1170&q=80",
-    "name": "Jaflong",
-    "about": "Jaflong is a scenic river and stone collection area near the India border in Sylhet. The crystal river water and surrounding hills attract thousands of tourists every year."
-  },
-  {
-    "id": "7260e0b16775b28aadab6079",
-    "index": 16,
-    "balance": "$510",
+    "id": "6260e0b16775b28aadab6073",
+    "index": 2,
+    "balance": "$650",
     "picture": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1170&q=80",
     "name": "Sundarbans",
-    "about": "The Sundarbans is the largest mangrove forest in the world and home to the Royal Bengal Tiger. Travelers enjoy wildlife cruises, rivers, and mysterious forest landscapes."
+    "about": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site, home to the Royal Bengal Tiger, spotted deer, and hundreds of bird species. Boat cruises weave through labyrinthine tidal rivers and dense mangrove canopy."
   },
   {
-    "id": "7260e0b16775b28aadab6080",
-    "index": 17,
-    "balance": "$340",
-    "picture": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1170&q=80",
-    "name": "Bisnakandi",
-    "about": "Bisnakandi is known for transparent water, stone beds, and mountain scenery near Sylhet. It becomes especially beautiful during the monsoon season."
+    "id": "6260e0b16775b28aadab6074",
+    "index": 3,
+    "balance": "$420",
+    "picture": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1170&q=80",
+    "name": "Sajek Valley",
+    "about": "Perched at 1,800 ft in the Chittagong Hill Tracts, Sajek Valley greets visitors with rolling clouds, indigenous Chakma and Lusai culture, and unforgettable sunrise views above the mist-filled valleys. It is one of the most breathtaking destinations in Bangladesh."
   },
   {
-    "id": "7260e0b16775b28aadab6081",
-    "index": 18,
-    "balance": "$460",
-    "picture": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1170&q=80",
-    "name": "Kuakata Sea Beach",
-    "about": "Kuakata is one of the rare beaches in South Asia where both sunrise and sunset can be viewed from the same beach. It offers a calm and peaceful travel experience."
+    "id": "6260e0b16775b28aadab6075",
+    "index": 4,
+    "balance": "$410",
+    "picture": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1170&q=80",
+    "name": "Tanguar Haor",
+    "about": "Tanguar Haor is a unique Ramsar wetland ecosystem in Sunamganj famous for boat travel, migratory birds, and crystal-clear water during monsoon season. Vast open water reflecting the sky makes it one of the most relaxing nature escapes in Bangladesh."
   },
   {
-    "id": "7260e0b16775b28aadab6082",
-    "index": 19,
-    "balance": "$280",
+    "id": "6260e0b16775b28aadab6076",
+    "index": 5,
+    "balance": "$290",
+    "picture": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1170&q=80",
+    "name": "Ratargul Swamp Forest",
+    "about": "Ratargul is the only freshwater swamp forest in Bangladesh, located in Sylhet. During the rainy season the entire forest submerges and visitors glide through by wooden boat among emerald-green canopy and ghostly submerged tree trunks."
+  },
+  {
+    "id": "6260e0b16775b28aadab6077",
+    "index": 6,
+    "balance": "$275",
     "picture": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1170&q=80",
-    "name": "Lalakhal",
-    "about": "Lalakhal is famous for its blue-green river water surrounded by hills and tea gardens. Boat rides across the river provide unforgettable scenery."
+    "name": "Jaflong",
+    "about": "Jaflong is situated on the India border in Sylhet, famous for its crystal-clear Piyain river and scenic stone-collection beds. The surrounding Khasia tribal hills create stunning layered scenery that attracts thousands of tourists every year."
   },
   {
-    "id": "7260e0b16775b28aadab6083",
-    "index": 20,
-    "balance": "$330",
-    "picture": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=1170&q=80",
-    "name": "Boga Lake",
-    "about": "Boga Lake is a natural lake located high in the hills of Bandarban. Adventure lovers trek through mountain paths to enjoy its peaceful environment."
-  },
-  {
-    "id": "7260e0b16775b28aadab6084",
-    "index": 21,
-    "balance": "$590",
-    "picture": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=1170&q=80",
-    "name": "Nafakhum Waterfall",
-    "about": "Nafakhum is considered one of the most powerful waterfalls in Bangladesh. The adventurous trekking route through hills and rivers makes it extremely popular."
-  },
-  {
-    "id": "7260e0b16775b28aadab6085",
-    "index": 22,
-    "balance": "$350",
-    "picture": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1170&q=80",
-    "name": "Himchari",
-    "about": "Himchari National Park near Cox's Bazar is known for waterfalls, green hills, and coastal scenery. The hilltop viewpoint offers stunning ocean views."
-  },
-  {
-    "id": "7260e0b16775b28aadab6086",
-    "index": 23,
+    "id": "6260e0b16775b28aadab6078",
+    "index": 7,
     "balance": "$295",
     "picture": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1170&q=80",
     "name": "Tea Gardens Sylhet",
-    "about": "The tea gardens of Sylhet create endless green landscapes and peaceful surroundings. Travelers enjoy nature walks and local tea experiences."
+    "about": "Rolling carpets of bright green tea bushes stretch endlessly across the Sylhet landscape. Nature walks through the gardens reveal workers hand-picking leaves and the sweet scent of fresh tea fills the peaceful surrounding air."
   },
   {
-    "id": "7260e0b16775b28aadab6087",
-    "index": 24,
+    "id": "6260e0b16775b28aadab6079",
+    "index": 8,
+    "balance": "$450",
+    "picture": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1170&q=80",
+    "name": "Bandarban Hill",
+    "about": "Bandarban is the gateway hill district offering lush green mountain ranges, peaceful tribal villages, and serene rivers. It serves as the base for trekkers heading to Bangladesh's highest and most remote Himalayan foothills."
+  },
+  {
+    "id": "6260e0b16775b28aadab6080",
+    "index": 9,
+    "balance": "$390",
+    "picture": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1170&q=80",
+    "name": "Nilachal Bandarban",
+    "about": "Known as the Darjeeling of Bangladesh, Nilachal hilltop sits above the clouds at dawn. The panoramic view of Bandarban town wrapped in morning mist with mountain ranges stretching in every direction is an unforgettable sight for visitors."
+  },
+  {
+    "id": "6260e0b16775b28aadab6081",
+    "index": 10,
+    "balance": "$590",
+    "picture": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=1170&q=80",
+    "name": "Nafakhum Waterfall",
+    "about": "Nafakhum is considered one of the most powerful and scenic waterfalls in Bangladesh. The adventurous multi-day trek through hills, rivers, and remote Bawm tribal villages to reach Nafakhum is itself a legendary journey worth every step."
+  },
+  {
+    "id": "6260e0b16775b28aadab6082",
+    "index": 11,
+    "balance": "$330",
+    "picture": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=1170&q=80",
+    "name": "Boga Lake",
+    "about": "Boga Lake is a natural lake of volcanic origin nestled high in the Bandarban hills at 1,246 ft altitude. Adventure lovers trek through mountain paths to enjoy the serene turquoise lake surrounded by dense forest and indigenous tribal culture."
+  },
+  {
+    "id": "6260e0b16775b28aadab6083",
+    "index": 12,
     "balance": "$620",
     "picture": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=1170&q=80",
     "name": "Debotakhum",
-    "about": "Debotakhum is a mysterious narrow canyon river surrounded by high rocky walls and deep forest. Boat journeys through the dark canyon create a thrilling adventure."
+    "about": "Debotakhum is a mysterious narrow canyon carved through rock by the Sangu river in Bandarban. Visitors wade through cold chest-deep water and travel by boat through pitch-dark tunnels to reach a hidden chamber — a truly thrilling natural adventure."
   },
   {
-    "id": "7260e0b16775b28aadab6088",
-    "index": 25,
-    "balance": "$265",
-    "picture": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1170&q=80",
-    "name": "Hamham Waterfall",
-    "about": "Hamham Waterfall is hidden deep inside the forests of Moulvibazar. The trekking route through jungle paths makes the journey exciting and memorable."
+    "id": "6260e0b16775b28aadab6084",
+    "index": 13,
+    "balance": "$380",
+    "picture": "https://images.unsplash.com/photo-1463288889890-a56b2853c40f?auto=format&fit=crop&w=1170&q=80",
+    "name": "Keokradong Hill",
+    "about": "Once considered the highest peak of Bangladesh, Keokradong stands at 1,230 m in the Bandarban range. The summit offers sweeping panoramic views across the border hill ranges stretching into Myanmar, rewarding trekkers with an extraordinary vista."
   },
   {
-    "id": "7260e0b16775b28aadab6089",
-    "index": 26,
+    "id": "6260e0b16775b28aadab6085",
+    "index": 14,
+    "balance": "$500",
+    "picture": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1170&q=80",
+    "name": "Nilgiri Hill",
+    "about": "Nilgiri at 2,200 ft is often wrapped in thick clouds and mist throughout the year. The hilltop resort gives visitors the rare sensation of sleeping above the clouds with misty mountain ranges visible in every direction at sunrise."
+  },
+  {
+    "id": "6260e0b16775b28aadab6086",
+    "index": 15,
     "balance": "$470",
     "picture": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=1170&q=80",
     "name": "Patenga Sea Beach",
-    "about": "Patenga Sea Beach in Chattogram is popular for evening sea views, street food, and nearby naval attractions. It is one of the most visited urban beaches in Bangladesh."
+    "about": "Patenga Sea Beach in Chattogram is popular for breezy evening sea views, street food, and nearby naval base attractions. It is one of the most visited urban beaches in Bangladesh offering easy access from the city center."
   },
   {
-    "id": "7260e0b16775b28aadab6090",
-    "index": 27,
-    "balance": "$550",
-    "picture": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1170&q=80",
+    "id": "6260e0b16775b28aadab6087",
+    "index": 16,
+    "balance": "$350",
+    "picture": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1170&q=80",
+    "name": "Himchari",
+    "about": "Himchari National Park sits just south of Cox's Bazar. A seasonal waterfall cascades down forested green hills directly to the beach below, creating a striking contrast of dense jungle meeting the open sea — a unique natural spectacle."
+  },
+  {
+    "id": "6260e0b16775b28aadab6088",
+    "index": 17,
+    "balance": "$460",
+    "picture": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1170&q=80",
+    "name": "Kuakata Sea Beach",
+    "about": "Kuakata is one of the rare beaches in South Asia where both sunrise and sunset can be witnessed from the same spot. It is also famous for its Buddhist temples, Rakhain tribal heritage, and calm peaceful travel atmosphere."
+  },
+  {
+    "id": "6260e0b16775b28aadab6089",
+    "index": 18,
+    "balance": "$245",
+    "picture": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1170&q=80",
+    "name": "Madhabkunda Waterfall",
+    "about": "One of the largest and most picturesque waterfalls in Bangladesh, located in Moulvibazar, Sylhet. The 162-ft cascade surrounded by rocky hillsides and tea-garden greenery remains mesmerizing and accessible throughout the year."
+  },
+  {
+    "id": "6260e0b16775b28aadab6090",
+    "index": 19,
+    "balance": "$265",
+    "picture": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1170&q=80",
+    "name": "Hamham Waterfall",
+    "about": "Hamham is a multi-tiered waterfall hidden deep inside the Rajkandi reserve forest of Moulvibazar. The jungle trek through dense canopy adds to its mystique. The raw natural beauty and remote location make it a favourite for adventure seekers."
+  },
+  {
+    "id": "6260e0b16775b28aadab6091",
+    "index": 20,
+    "balance": "$340",
+    "picture": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1170&q=80",
+    "name": "Bisnakandi",
+    "about": "Where two rivers meet at the foot of the Meghalaya hills in Sylhet, Bisnakandi dazzles with crystal-clear water rushing over smooth stone beds. The surrounding mountain panorama becomes especially magical and vibrant during the monsoon season."
+  },
+  {
+    "id": "6260e0b16775b28aadab6092",
+    "index": 21,
+    "balance": "$280",
+    "picture": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1170&q=80",
+    "name": "Lalakhal",
+    "about": "Lalakhal is famous for its striking blue-green river water that flows from the Jaintia hills on the India border through Sylhet. Boat rides past tea gardens and rubber plantations along the river banks provide deeply relaxing scenery."
+  },
+  {
+    "id": "6260e0b16775b28aadab6093",
+    "index": 22,
+    "balance": "$295",
+    "picture": "https://images.unsplash.com/photo-1542202229-7d93c33f5d07?auto=format&fit=crop&w=1170&q=80",
     "name": "Alutila Cave",
-    "about": "Alutila Cave is one of the most mysterious caves in Khagrachari surrounded by hills and forests. Visitors explore the dark cave using torches and enjoy nearby viewpoints."
+    "about": "Alutila natural cave is a 350-metre underground tunnel carved through a hillside in Khagrachari. Visitors wade through a shallow stream in near-total darkness using torches to navigate — a unique and thrilling natural wonder of the Chittagong Hill Tracts."
+  },
+  {
+    "id": "6260e0b16775b28aadab6094",
+    "index": 23,
+    "balance": "$480",
+    "picture": "https://images.unsplash.com/photo-1469362102473-8622cfb973cd?auto=format&fit=crop&w=1170&q=80",
+    "name": "Saka Haphong Hill",
+    "about": "Located near the Bangladesh–Myanmar border, Saka Haphong is among the highest peaks in the country. The multi-day expedition through remote Bawm tribal villages of the Dalian headman Para of Remakri Mouja is an adventure of a lifetime."
+  },
+  {
+    "id": "6260e0b16775b28aadab6095",
+    "index": 24,
+    "balance": "$385",
+    "picture": "https://images.unsplash.com/photo-1594717527389-a590b56e8d0a?auto=format&fit=crop&w=1170&q=80",
+    "name": "Jogi Haphong Hill",
+    "about": "Jogi Haphong is a significant peak in the Lawmbok Row range of the Chittagong Hill Tracts. Remote, pristine, and demanding, it was first summited in late 2012 and attracts only the most dedicated and experienced hillwalkers in Bangladesh."
+  },
+  {
+    "id": "6260e0b16775b28aadab6096",
+    "index": 25,
+    "balance": "$600",
+    "picture": "https://images.unsplash.com/photo-1542202229-7d93c33f5d07?auto=format&fit=crop&w=1170&q=80",
+    "name": "Lusai Pahar",
+    "about": "Lusai Pahar borders Mizoram, India, and is historically significant — its flat mountain top was once declared a temporary capital by a separatist group. The sweeping border-range plateau views and dense surrounding forests make it truly extraordinary."
+  },
+  {
+    "id": "6260e0b16775b28aadab6097",
+    "index": 26,
+    "balance": "$800",
+    "picture": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1170&q=80",
+    "name": "Afiakum Jhorna",
+    "about": "Afiakum is one of the most remote and pristine waterfalls in Bangladesh, requiring a challenging multi-day jungle trek through Bandarban. The reward is a powerful cascade tumbling into a clear pool surrounded by completely untouched wilderness."
+  },
+  {
+    "id": "6260e0b16775b28aadab6098",
+    "index": 27,
+    "balance": "$385",
+    "picture": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1170&q=80",
+    "name": "Zow Tlang Thanci",
+    "about": "Zow Tlang is located at the Myanmar border in the Mowdok range at an altitude of 1,022 metres. It is considered the second-highest peak in Bangladesh. The border-range trek offers breathtaking cross-border panoramic views across three countries."
   }
-]
 ]
