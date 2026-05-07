@@ -62,5 +62,167 @@
     "picture": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
     "name": "Afiakum Jhorna",
     "about": "Taung Prai, a very beautiful dome-shaped mountain at Reng Tlang border range is the most south-eastern border peak of Rangamati district. It is also the last major peak at Reng Tlang range inside our border. View seen from the top is mind-blowing. "
+  },
+  [
+  {
+    "id": "7260e0b16775b28aadab6071",
+    "index": 8,
+    "balance": "$320",
+    "picture": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1170&q=80",
+    "name": "Sajek Valley",
+    "about": "Sajek Valley is one of the most breathtaking tourist destinations in Bangladesh, surrounded by rolling hills, clouds, and indigenous culture. The valley offers mesmerizing sunrise views and peaceful natural beauty."
+  },
+  {
+    "id": "7260e0b16775b28aadab6072",
+    "index": 9,
+    "balance": "$410",
+    "picture": "https://images.unsplash.com/photo-1493246318656-5bfd4cfb29b8?auto=format&fit=crop&w=1170&q=80",
+    "name": "Tanguar Haor",
+    "about": "Tanguar Haor is a unique wetland ecosystem in Sunamganj famous for boat travel, migratory birds, and crystal-clear water during monsoon season. It is one of the most relaxing nature escapes in Bangladesh."
+  },
+  {
+    "id": "7260e0b16775b28aadab6073",
+    "index": 10,
+    "balance": "$290",
+    "picture": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1170&q=80",
+    "name": "Ratargul Swamp Forest",
+    "about": "Ratargul Swamp Forest is the only freshwater swamp forest in Bangladesh. During rainy season, visitors can explore the forest by boat through submerged trees and enjoy the magical atmosphere."
+  },
+  {
+    "id": "7260e0b16775b28aadab6074",
+    "index": 11,
+    "balance": "$530",
+    "picture": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1170&q=80",
+    "name": "Saint Martin Island",
+    "about": "Saint Martin Island is the only coral island in Bangladesh known for turquoise water, coconut trees, and peaceful beaches. It is a perfect destination for relaxation and sea adventure."
+  },
+  {
+    "id": "7260e0b16775b28aadab6075",
+    "index": 12,
+    "balance": "$370",
+    "picture": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1170&q=80",
+    "name": "Cox's Bazar Beach",
+    "about": "Cox's Bazar is the world's longest natural sea beach stretching over 120 kilometers. Visitors enjoy beach sunsets, seafood, marine drive, and exciting coastal adventures."
+  },
+  {
+    "id": "7260e0b16775b28aadab6076",
+    "index": 13,
+    "balance": "$245",
+    "picture": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1170&q=80",
+    "name": "Madhabkunda Waterfall",
+    "about": "Madhabkunda Waterfall is one of the largest waterfalls in Bangladesh located in Sylhet division. The surrounding green hills and rocky environment create an adventurous travel experience."
+  },
+  {
+    "id": "7260e0b16775b28aadab6077",
+    "index": 14,
+    "balance": "$390",
+    "picture": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1170&q=80",
+    "name": "Nilachal Bandarban",
+    "about": "Nilachal is a famous hilltop tourist spot in Bandarban offering panoramic cloud views and cool weather. Visitors often call it the Darjeeling of Bangladesh."
+  },
+  {
+    "id": "7260e0b16775b28aadab6078",
+    "index": 15,
+    "balance": "$275",
+    "picture": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1170&q=80",
+    "name": "Jaflong",
+    "about": "Jaflong is a scenic river and stone collection area near the India border in Sylhet. The crystal river water and surrounding hills attract thousands of tourists every year."
+  },
+  {
+    "id": "7260e0b16775b28aadab6079",
+    "index": 16,
+    "balance": "$510",
+    "picture": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1170&q=80",
+    "name": "Sundarbans",
+    "about": "The Sundarbans is the largest mangrove forest in the world and home to the Royal Bengal Tiger. Travelers enjoy wildlife cruises, rivers, and mysterious forest landscapes."
+  },
+  {
+    "id": "7260e0b16775b28aadab6080",
+    "index": 17,
+    "balance": "$340",
+    "picture": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1170&q=80",
+    "name": "Bisnakandi",
+    "about": "Bisnakandi is known for transparent water, stone beds, and mountain scenery near Sylhet. It becomes especially beautiful during the monsoon season."
+  },
+  {
+    "id": "7260e0b16775b28aadab6081",
+    "index": 18,
+    "balance": "$460",
+    "picture": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1170&q=80",
+    "name": "Kuakata Sea Beach",
+    "about": "Kuakata is one of the rare beaches in South Asia where both sunrise and sunset can be viewed from the same beach. It offers a calm and peaceful travel experience."
+  },
+  {
+    "id": "7260e0b16775b28aadab6082",
+    "index": 19,
+    "balance": "$280",
+    "picture": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1170&q=80",
+    "name": "Lalakhal",
+    "about": "Lalakhal is famous for its blue-green river water surrounded by hills and tea gardens. Boat rides across the river provide unforgettable scenery."
+  },
+  {
+    "id": "7260e0b16775b28aadab6083",
+    "index": 20,
+    "balance": "$330",
+    "picture": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=1170&q=80",
+    "name": "Boga Lake",
+    "about": "Boga Lake is a natural lake located high in the hills of Bandarban. Adventure lovers trek through mountain paths to enjoy its peaceful environment."
+  },
+  {
+    "id": "7260e0b16775b28aadab6084",
+    "index": 21,
+    "balance": "$590",
+    "picture": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=1170&q=80",
+    "name": "Nafakhum Waterfall",
+    "about": "Nafakhum is considered one of the most powerful waterfalls in Bangladesh. The adventurous trekking route through hills and rivers makes it extremely popular."
+  },
+  {
+    "id": "7260e0b16775b28aadab6085",
+    "index": 22,
+    "balance": "$350",
+    "picture": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1170&q=80",
+    "name": "Himchari",
+    "about": "Himchari National Park near Cox's Bazar is known for waterfalls, green hills, and coastal scenery. The hilltop viewpoint offers stunning ocean views."
+  },
+  {
+    "id": "7260e0b16775b28aadab6086",
+    "index": 23,
+    "balance": "$295",
+    "picture": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1170&q=80",
+    "name": "Tea Gardens Sylhet",
+    "about": "The tea gardens of Sylhet create endless green landscapes and peaceful surroundings. Travelers enjoy nature walks and local tea experiences."
+  },
+  {
+    "id": "7260e0b16775b28aadab6087",
+    "index": 24,
+    "balance": "$620",
+    "picture": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=1170&q=80",
+    "name": "Debotakhum",
+    "about": "Debotakhum is a mysterious narrow canyon river surrounded by high rocky walls and deep forest. Boat journeys through the dark canyon create a thrilling adventure."
+  },
+  {
+    "id": "7260e0b16775b28aadab6088",
+    "index": 25,
+    "balance": "$265",
+    "picture": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1170&q=80",
+    "name": "Hamham Waterfall",
+    "about": "Hamham Waterfall is hidden deep inside the forests of Moulvibazar. The trekking route through jungle paths makes the journey exciting and memorable."
+  },
+  {
+    "id": "7260e0b16775b28aadab6089",
+    "index": 26,
+    "balance": "$470",
+    "picture": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=1170&q=80",
+    "name": "Patenga Sea Beach",
+    "about": "Patenga Sea Beach in Chattogram is popular for evening sea views, street food, and nearby naval attractions. It is one of the most visited urban beaches in Bangladesh."
+  },
+  {
+    "id": "7260e0b16775b28aadab6090",
+    "index": 27,
+    "balance": "$550",
+    "picture": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1170&q=80",
+    "name": "Alutila Cave",
+    "about": "Alutila Cave is one of the most mysterious caves in Khagrachari surrounded by hills and forests. Visitors explore the dark cave using torches and enjoy nearby viewpoints."
   }
+]
 ]
